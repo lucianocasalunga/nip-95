@@ -1,4 +1,4 @@
-# NIP-95 · Nexus: Hybrid Peer-to-Peer Relay
+# NIP-95 (Nexus P2P Relay) on LiberNet
 
 > My own Nostr proposal: a relay that also coordinates clients to share recent events directly with each other over WebRTC.
 
